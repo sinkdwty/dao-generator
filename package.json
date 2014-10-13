@@ -1,7 +1,7 @@
 {
   "name": "dao-generator-for-node-js",
   "main": "./lib/dao-generator",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Change text Table(col1, col2, col3) into DAO. Current hotkey is ctrl-alt-d",
   "activationEvents": {
     "dao-genarater:generate": ".editor"
