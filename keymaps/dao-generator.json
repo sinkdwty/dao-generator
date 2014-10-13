@@ -1,5 +1,5 @@
 {
   ".editor":{
-    "alt-ctrl-cmd-d": "dao-genarater:generate"
+    "alt-ctrl-d": "dao-genarater:generate"
   }
 }
