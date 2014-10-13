@@ -1,8 +1,9 @@
 {
   "name": "dao-generator-for-node-js",
-  "main": "./lib/d-a-o-genarater",
+  "main": "./lib/dao-generator",
   "version": "0.0.2",
-  "description": "A short description of your package",
+  "description": "Change text Table(col1, col2, col3) into DAO. Current hotkey is ctrl-alt-d",
+  "activationEvents": {"dao-genarater:generate": ".editor"},
   "repository": "https://github.com/tanadee/dao-generator.git",
   "license": "MIT",
   "engines": {

@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "DAO generator",
+          "submenu": [
+            {
+              "label": "generate",
+              "command": "dao-genarater:generate"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
